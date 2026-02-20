@@ -1,5 +1,6 @@
 # 🎯 Jogo do Número Secreto
-Um jogo simples desenvolvido em JavaScript, HTML e CSS, inspirado no curso da Alura. O objetivo é adivinhar um número secreto gerado aleatoriamente pelo sistema, recebendo dicas a cada tentativa até acertar.
+Um jogo simples desenvolvido em JavaScript, HTML e CSS, inspirado no curso da Alura **Mergulhe em programação com JavaScript**. 
+O objetivo é adivinhar um número secreto gerado aleatoriamente pelo sistema, recebendo dicas a cada tentativa até acertar.
 
 ## 🕹️ Como o jogo funciona
 * Ao abrir a página, o jogo exibe uma mensagem de boas-vindas.
